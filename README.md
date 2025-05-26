@@ -1,12 +1,20 @@
-Sistema de Gestión de Stock
-Descripción
-Este proyecto es un sistema básico de gestión de stock realizado en C# con Entity Framework. Permite llevar un control sobre los artículos en inventario, con funcionalidades para aumentar y disminuir el stock según sea necesario.
+Stock Management System
 
-Características
-Agregar Artículos: Añadir nuevos artículos al inventario.
-Actualizar Stock: Aumentar o disminuir la cantidad de stock disponible para cada artículo.
-Consultar Stock: Visualizar el stock actual de los artículos.
-Requisitos
-.NET Core 6.0 o superior
-Entity Framework Core (incluido como paquete NuGet)
-SQL Server (o cualquier otra base de datos compatible)
+Description:
+This project is a basic stock management system built with C# using Entity Framework. It allows for tracking inventory items, with features to increase or decrease stock levels as needed.
+
+Features:
+
+Add Items: Add new items to the inventory.
+
+Update Stock: Increase or decrease the available quantity for each item.
+
+Check Stock: View the current stock levels of all items.
+
+Requirements:
+
+.NET Core 6.0 or higher
+
+Entity Framework Core (included as a NuGet package)
+
+SQL Server (or any other compatible database)
